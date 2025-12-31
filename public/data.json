@@ -1,0 +1,1060 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "channel_id": "6197",
+      "name": "广东卫视",
+      "group_title": "广东"
+    },
+    {
+      "id": 2,
+      "channel_id": "83789163",
+      "name": "广东珠江",
+      "group_title": "广东"
+    },
+    {
+      "id": 3,
+      "channel_id": "320917527",
+      "name": "广东新闻",
+      "group_title": "广东"
+    },
+    {
+      "id": 4,
+      "channel_id": "10001723",
+      "name": "广东民生",
+      "group_title": "广东"
+    },
+    {
+      "id": 5,
+      "channel_id": "9537",
+      "name": "广东体育",
+      "group_title": "广东"
+    },
+    {
+      "id": 6,
+      "channel_id": "6142",
+      "name": "经济科教",
+      "group_title": "广东"
+    },
+    {
+      "id": 7,
+      "channel_id": "10001721",
+      "name": "大湾区卫视",
+      "group_title": "广东"
+    },
+    {
+      "id": 8,
+      "channel_id": "10001724",
+      "name": "广东影视",
+      "group_title": "广东"
+    },
+    {
+      "id": 9,
+      "channel_id": "10001722",
+      "name": "广东少儿",
+      "group_title": "广东"
+    },
+    {
+      "id": 10,
+      "channel_id": "320918165",
+      "name": "嘉佳卡通",
+      "group_title": "广东"
+    },
+    {
+      "id": 11,
+      "channel_id": "6237",
+      "name": "南方购物-精选",
+      "group_title": "广东"
+    },
+    {
+      "id": 12,
+      "channel_id": "6156",
+      "name": "广东移动",
+      "group_title": "广东"
+    },
+    {
+      "id": 13,
+      "channel_id": "6159",
+      "name": "南方购物",
+      "group_title": "广东"
+    },
+    {
+      "id": 14,
+      "channel_id": "669448381",
+      "name": "岭南戏曲",
+      "group_title": "广东"
+    },
+    {
+      "id": 15,
+      "channel_id": "669448258",
+      "name": "现代教育",
+      "group_title": "广东"
+    },
+    {
+      "id": 16,
+      "channel_id": "90000001",
+      "name": "广州综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 17,
+      "channel_id": "90000002",
+      "name": "广州新闻",
+      "group_title": "广东"
+    },
+    {
+      "id": 18,
+      "channel_id": "6818",
+      "name": "深圳卫视",
+      "group_title": "广东"
+    },
+    {
+      "id": 19,
+      "channel_id": "90000006",
+      "name": "深圳都市",
+      "group_title": "广东"
+    },
+    {
+      "id": 20,
+      "channel_id": "90000007",
+      "name": "深圳体育",
+      "group_title": "广东"
+    },
+    {
+      "id": 21,
+      "channel_id": "90000008",
+      "name": "深圳电视剧",
+      "group_title": "广东"
+    },
+    {
+      "id": 22,
+      "channel_id": "90000009",
+      "name": "深圳财经",
+      "group_title": "广东"
+    },
+    {
+      "id": 23,
+      "channel_id": "90000010",
+      "name": "深圳少儿",
+      "group_title": "广东"
+    },
+    {
+      "id": 24,
+      "channel_id": "90000011",
+      "name": "深圳宝安",
+      "group_title": "广东"
+    },
+    {
+      "id": 25,
+      "channel_id": "90000012",
+      "name": "深圳龙岗",
+      "group_title": "广东"
+    },
+    {
+      "id": 26,
+      "channel_id": "90000014",
+      "name": "佛山综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 27,
+      "channel_id": "90000015",
+      "name": "佛山城市生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 28,
+      "channel_id": "90000017",
+      "name": "佛山顺德",
+      "group_title": "广东"
+    },
+    {
+      "id": 29,
+      "channel_id": "90000018",
+      "name": "佛山南海",
+      "group_title": "广东"
+    },
+    {
+      "id": 30,
+      "channel_id": "90000019",
+      "name": "东莞新闻综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 31,
+      "channel_id": "90000020",
+      "name": "东莞生活资讯",
+      "group_title": "广东"
+    },
+    {
+      "id": 32,
+      "channel_id": "90000021",
+      "name": "惠州综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 33,
+      "channel_id": "90000022",
+      "name": "惠州都市生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 34,
+      "channel_id": "90000023",
+      "name": "珠海",
+      "group_title": "广东"
+    },
+    {
+      "id": 35,
+      "channel_id": "90000024",
+      "name": "江门综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 36,
+      "channel_id": "90000026",
+      "name": "中山综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 37,
+      "channel_id": "90000027",
+      "name": "香山文化",
+      "group_title": "广东"
+    },
+    {
+      "id": 38,
+      "channel_id": "90000028",
+      "name": "肇庆新闻综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 39,
+      "channel_id": "90000029",
+      "name": "肇庆生活服务",
+      "group_title": "广东"
+    },
+    {
+      "id": 40,
+      "channel_id": "90000030",
+      "name": "汕头新闻综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 41,
+      "channel_id": "90000031",
+      "name": "汕头经济生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 42,
+      "channel_id": "90000033",
+      "name": "揭阳综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 43,
+      "channel_id": "90000034",
+      "name": "揭阳生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 44,
+      "channel_id": "90000035",
+      "name": "潮州综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 45,
+      "channel_id": "90000036",
+      "name": "潮州民生",
+      "group_title": "广东"
+    },
+    {
+      "id": 46,
+      "channel_id": "90000037",
+      "name": "汕尾新闻综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 47,
+      "channel_id": "90000038",
+      "name": "汕尾文化生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 48,
+      "channel_id": "90000039",
+      "name": "湛江新闻综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 49,
+      "channel_id": "90000040",
+      "name": "湛江公共",
+      "group_title": "广东"
+    },
+    {
+      "id": 50,
+      "channel_id": "90000041",
+      "name": "茂名综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 51,
+      "channel_id": "90000042",
+      "name": "茂名文化生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 52,
+      "channel_id": "90000043",
+      "name": "阳江-1",
+      "group_title": "广东"
+    },
+    {
+      "id": 53,
+      "channel_id": "90000044",
+      "name": "阳江-2",
+      "group_title": "广东"
+    },
+    {
+      "id": 54,
+      "channel_id": "90000045",
+      "name": "云浮综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 55,
+      "channel_id": "90000046",
+      "name": "云浮文旅",
+      "group_title": "广东"
+    },
+    {
+      "id": 56,
+      "channel_id": "90000047",
+      "name": "清远新闻综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 57,
+      "channel_id": "90000049",
+      "name": "韶关新闻综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 58,
+      "channel_id": "90000050",
+      "name": "河源综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 59,
+      "channel_id": "90000051",
+      "name": "河源生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 60,
+      "channel_id": "90000052",
+      "name": "梅州综合",
+      "group_title": "广东"
+    },
+    {
+      "id": 61,
+      "channel_id": "90000053",
+      "name": "梅州客家生活",
+      "group_title": "广东"
+    },
+    {
+      "id": 62,
+      "channel_id": "90000054",
+      "name": "睛彩竞技",
+      "group_title": "广东"
+    },
+    {
+      "id": 63,
+      "channel_id": "90000055",
+      "name": "睛彩篮球",
+      "group_title": "广东"
+    },
+    {
+      "id": 64,
+      "channel_id": "90000056",
+      "name": "睛彩青少",
+      "group_title": "广东"
+    },
+    {
+      "id": 65,
+      "channel_id": "90000057",
+      "name": "睛彩广场舞",
+      "group_title": "广东"
+    },
+    {
+      "id": 66,
+      "channel_id": "90000013",
+      "name": "宜和购物",
+      "group_title": "广东"
+    },
+    {
+      "id": 67,
+      "channel_id": "90000058",
+      "name": "中国天气",
+      "group_title": "广东"
+    },
+    {
+      "id": 68,
+      "channel_id": "6838",
+      "name": "CCTV-1 综合",
+      "group_title": "央视"
+    },
+    {
+      "id": 69,
+      "channel_id": "8921",
+      "name": "CCTV-2 财经",
+      "group_title": "央视"
+    },
+    {
+      "id": 70,
+      "channel_id": "143526676",
+      "name": "CCTV-3 综艺",
+      "group_title": "央视"
+    },
+    {
+      "id": 71,
+      "channel_id": "10001121",
+      "name": "CCTV-4 中文国际",
+      "group_title": "央视"
+    },
+    {
+      "id": 72,
+      "channel_id": "594151337",
+      "name": "CCTV-4 中文国际欧洲",
+      "group_title": "央视"
+    },
+    {
+      "id": 73,
+      "channel_id": "594151333",
+      "name": "CCTV-4 中文国际美洲",
+      "group_title": "央视"
+    },
+    {
+      "id": 74,
+      "channel_id": "6143",
+      "name": "CCTV-5+ 体育赛事",
+      "group_title": "央视"
+    },
+    {
+      "id": 75,
+      "channel_id": "143526200",
+      "name": "CCTV-5 体育",
+      "group_title": "央视"
+    },
+    {
+      "id": 76,
+      "channel_id": "143526615",
+      "name": "CCTV-6 电影",
+      "group_title": "央视"
+    },
+    {
+      "id": 77,
+      "channel_id": "8922",
+      "name": "CCTV-7 国防 军事",
+      "group_title": "央视"
+    },
+    {
+      "id": 78,
+      "channel_id": "143526317",
+      "name": "CCTV-8 电视剧",
+      "group_title": "央视"
+    },
+    {
+      "id": 79,
+      "channel_id": "8919",
+      "name": "CCTV-9 记录",
+      "group_title": "央视"
+    },
+    {
+      "id": 80,
+      "channel_id": "8918",
+      "name": "CCTV-10 科教",
+      "group_title": "央视"
+    },
+    {
+      "id": 81,
+      "channel_id": "10001241",
+      "name": "CCTV-11 戏曲",
+      "group_title": "央视"
+    },
+    {
+      "id": 82,
+      "channel_id": "8920",
+      "name": "CCTV-12 社会与法",
+      "group_title": "央视"
+    },
+    {
+      "id": 83,
+      "channel_id": "10001823",
+      "name": "CCTV-13 新闻",
+      "group_title": "央视"
+    },
+    {
+      "id": 84,
+      "channel_id": "8917",
+      "name": "CCTV-14 少儿",
+      "group_title": "央视"
+    },
+    {
+      "id": 85,
+      "channel_id": "10001242",
+      "name": "CCTV-15 音乐",
+      "group_title": "央视"
+    },
+    {
+      "id": 86,
+      "channel_id": "425398357",
+      "name": "CCTV-16 奥林匹克",
+      "group_title": "央视"
+    },
+    {
+      "id": 87,
+      "channel_id": "10001122",
+      "name": "CCTV-17 农业 农村",
+      "group_title": "央视"
+    },
+    {
+      "id": 88,
+      "channel_id": "710573141",
+      "name": "CCTV-卫生健康",
+      "group_title": "央视"
+    },
+    {
+      "id": 89,
+      "channel_id": "10001581",
+      "name": "CCTV-兵器科技",
+      "group_title": "央视"
+    },
+    {
+      "id": 90,
+      "channel_id": "10001582",
+      "name": "CCTV-电视指南",
+      "group_title": "央视"
+    },
+    {
+      "id": 91,
+      "channel_id": "10001587",
+      "name": "CCTV-央视足球",
+      "group_title": "央视"
+    },
+    {
+      "id": 92,
+      "channel_id": "10001591",
+      "name": "CCTV-央视台球",
+      "group_title": "央视"
+    },
+    {
+      "id": 93,
+      "channel_id": "10001586",
+      "name": "CCTV-高尔夫网球",
+      "group_title": "央视"
+    },
+    {
+      "id": 94,
+      "channel_id": "10001590",
+      "name": "CCTV-女性时尚",
+      "group_title": "央视"
+    },
+    {
+      "id": 95,
+      "channel_id": "10001592",
+      "name": "CCTV-世界地理",
+      "group_title": "央视"
+    },
+    {
+      "id": 96,
+      "channel_id": "10001589",
+      "name": "CCTV-怀旧剧场",
+      "group_title": "央视"
+    },
+    {
+      "id": 97,
+      "channel_id": "10001588",
+      "name": "CCTV-风云剧场",
+      "group_title": "央视"
+    },
+    {
+      "id": 98,
+      "channel_id": "10001585",
+      "name": "CCTV-央视文化精品",
+      "group_title": "央视"
+    },
+    {
+      "id": 99,
+      "channel_id": "10001584",
+      "name": "CCTV-第一剧场",
+      "group_title": "央视"
+    },
+    {
+      "id": 100,
+      "channel_id": "10001601",
+      "name": "CCTV-风云音乐",
+      "group_title": "央视"
+    },
+    {
+      "id": 101,
+      "channel_id": "381195955",
+      "name": "CGTN英语",
+      "group_title": "央视"
+    },
+    {
+      "id": 102,
+      "channel_id": "594590903",
+      "name": "CGTN英文记录",
+      "group_title": "央视"
+    },
+    {
+      "id": 103,
+      "channel_id": "388096679",
+      "name": "CGTN西班牙语",
+      "group_title": "央视"
+    },
+    {
+      "id": 104,
+      "channel_id": "388097125",
+      "name": "CGTN法语",
+      "group_title": "央视"
+    },
+    {
+      "id": 105,
+      "channel_id": "388099934",
+      "name": "CGTN阿拉伯语",
+      "group_title": "央视"
+    },
+    {
+      "id": 106,
+      "channel_id": "388096895",
+      "name": "CGTN俄语",
+      "group_title": "央视"
+    },
+    {
+      "id": 107,
+      "channel_id": "6837",
+      "name": "湖南卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 108,
+      "channel_id": "6819",
+      "name": "浙江卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 109,
+      "channel_id": "5529",
+      "name": "江苏卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 110,
+      "channel_id": "6820",
+      "name": "东方卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 111,
+      "channel_id": "10377",
+      "name": "安徽卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 112,
+      "channel_id": "5524",
+      "name": "北京卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 113,
+      "channel_id": "7277",
+      "name": "天津卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 114,
+      "channel_id": "6199",
+      "name": "山东卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 115,
+      "channel_id": "98560530",
+      "name": "江西卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 116,
+      "channel_id": "6817",
+      "name": "湖北卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 117,
+      "channel_id": "8837",
+      "name": "辽宁卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 118,
+      "channel_id": "6839",
+      "name": "黑龙江卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 119,
+      "channel_id": "11897",
+      "name": "贵州卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 120,
+      "channel_id": "10257",
+      "name": "四川卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 121,
+      "channel_id": "367378145",
+      "name": "河南卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 122,
+      "channel_id": "488774603",
+      "name": "云南卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 123,
+      "channel_id": "10302",
+      "name": "重庆卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 124,
+      "channel_id": "98557151",
+      "name": "河北卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 125,
+      "channel_id": "98558818",
+      "name": "东南卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 126,
+      "channel_id": "10001162",
+      "name": "广西卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 127,
+      "channel_id": "98557072",
+      "name": "吉林卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 128,
+      "channel_id": "5769",
+      "name": "陕西卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 129,
+      "channel_id": "5759",
+      "name": "山西卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 130,
+      "channel_id": "5760",
+      "name": "内蒙古卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 131,
+      "channel_id": "594151286",
+      "name": "青海卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 132,
+      "channel_id": "488773815",
+      "name": "海南卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 133,
+      "channel_id": "817310023",
+      "name": "宁夏卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 134,
+      "channel_id": "817309966",
+      "name": "西藏卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 135,
+      "channel_id": "817310115",
+      "name": "新疆卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 136,
+      "channel_id": "527111723",
+      "name": "甘肃卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 137,
+      "channel_id": "571070943",
+      "name": "三沙卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 138,
+      "channel_id": "4668",
+      "name": "吉林延边卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 139,
+      "channel_id": "7278",
+      "name": "厦门卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 140,
+      "channel_id": "817309842",
+      "name": "兵团卫视",
+      "group_title": "卫视"
+    },
+    {
+      "id": 141,
+      "channel_id": "10001187",
+      "name": "茶",
+      "group_title": "付费"
+    },
+    {
+      "id": 142,
+      "channel_id": "10001186",
+      "name": "快乐垂钓",
+      "group_title": "付费"
+    },
+    {
+      "id": 143,
+      "channel_id": "448464249",
+      "name": "求索纪录",
+      "group_title": "付费"
+    },
+    {
+      "id": 144,
+      "channel_id": "486705741",
+      "name": "天元围棋",
+      "group_title": "付费"
+    },
+    {
+      "id": 145,
+      "channel_id": "805788521",
+      "name": "广东卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 146,
+      "channel_id": "12658",
+      "name": "广东4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 147,
+      "channel_id": "90000005",
+      "name": "广州南国都市4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 148,
+      "channel_id": "805916567",
+      "name": "深圳卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 149,
+      "channel_id": "477174388",
+      "name": "CCTV-4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 150,
+      "channel_id": "780169343",
+      "name": "北京卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 151,
+      "channel_id": "831926233",
+      "name": "湖南卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 152,
+      "channel_id": "831926589",
+      "name": "江苏卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 153,
+      "channel_id": "831926510",
+      "name": "浙江卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 154,
+      "channel_id": "831926506",
+      "name": "东方卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 155,
+      "channel_id": "831926585",
+      "name": "四川卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 156,
+      "channel_id": "831926236",
+      "name": "山东卫视4K",
+      "group_title": "4K超高清"
+    },
+    {
+      "id": 157,
+      "channel_id": "5838",
+      "name": "卡酷动画",
+      "group_title": "其他"
+    },
+    {
+      "id": 158,
+      "channel_id": "422706994",
+      "name": "金鹰卡通",
+      "group_title": "其他"
+    },
+    {
+      "id": 159,
+      "channel_id": "11898",
+      "name": "CETV-1",
+      "group_title": "其他"
+    },
+    {
+      "id": 160,
+      "channel_id": "6147",
+      "name": "山东教育",
+      "group_title": "其他"
+    },
+    {
+      "id": 161,
+      "channel_id": "5856",
+      "name": "财富天下",
+      "group_title": "其他"
+    },
+    {
+      "id": 162,
+      "channel_id": "11935",
+      "name": "优漫卡通",
+      "group_title": "其他"
+    },
+    {
+      "id": 163,
+      "channel_id": "10258",
+      "name": "金鹰记实",
+      "group_title": "其他"
+    },
+    {
+      "id": 164,
+      "channel_id": "10001262",
+      "name": "CETV2",
+      "group_title": "其他"
+    },
+    {
+      "id": 165,
+      "channel_id": "582786018",
+      "name": "CETV4",
+      "group_title": "其他"
+    },
+    {
+      "id": 166,
+      "channel_id": "381196674",
+      "name": "早期教育",
+      "group_title": "其他"
+    },
+    {
+      "id": 167,
+      "channel_id": "11923",
+      "name": "汽摩",
+      "group_title": "其他"
+    },
+    {
+      "id": 168,
+      "channel_id": "11934",
+      "name": "老故事",
+      "group_title": "其他"
+    },
+    {
+      "id": 169,
+      "channel_id": "11939",
+      "name": "国学",
+      "group_title": "其他"
+    },
+    {
+      "id": 170,
+      "channel_id": "5525",
+      "name": "爱电影",
+      "group_title": "其他"
+    },
+    {
+      "id": 171,
+      "channel_id": "6161",
+      "name": "经典电影",
+      "group_title": "其他"
+    },
+    {
+      "id": 172,
+      "channel_id": "5521",
+      "name": "爱大剧",
+      "group_title": "其他"
+    },
+    {
+      "id": 173,
+      "channel_id": "6162",
+      "name": "热播剧场",
+      "group_title": "其他"
+    },
+    {
+      "id": 174,
+      "channel_id": "5527",
+      "name": "爱综艺",
+      "group_title": "其他"
+    },
+    {
+      "id": 175,
+      "channel_id": "5522",
+      "name": "少儿动画",
+      "group_title": "其他"
+    },
+    {
+      "id": 176,
+      "channel_id": "5523",
+      "name": "魅力时尚",
+      "group_title": "其他"
+    }
+  ]
+}

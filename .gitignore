@@ -1,0 +1,45 @@
+# Python 虚拟环境
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Node.js (保留以防需要)
+node_modules/
+
+# 数据文件
+data/
+*.db
+*.db-journal
+*.m3u
+
+# 日志文件
+logs/
+*.log
+npm-debug.log*
+
+# 环境变量文件
+.env
+.env.local
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 编辑器配置
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 临时文件
+temp/
+tmp/
+*.tmp
